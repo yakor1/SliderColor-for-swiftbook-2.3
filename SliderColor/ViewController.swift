@@ -28,9 +28,9 @@ class ViewController: UIViewController {
         colorView.layer.cornerRadius = 10
         self.colorView.alpha = 1
         
-        labelOne.numberOfLines = 3
-        labelTwo.numberOfLines = 3
-        labelThree.numberOfLines = 3
+        labelOne.numberOfLines = 1
+        labelTwo.numberOfLines = 1
+        labelThree.numberOfLines = 1
         
         redSlider.thumbTintColor = .red
         greenSlider.thumbTintColor = .green
